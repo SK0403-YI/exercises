@@ -1,4 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
+    
+
+
     // addTodoBtnの要素を取得してください。
 
     // 追加ボタンが押下されたときのイベントを追加してください
